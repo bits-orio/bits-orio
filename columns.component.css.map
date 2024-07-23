@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/columns/columns.component.scss"],
+  "sourcesContent": ["th,\r\ntd {\r\n  width: 115px;\r\n}\r\n\r\n:host ::ng-deep {\r\n  .p-dialog-content {\r\n    padding-bottom: 1rem;\r\n  }\r\n}\r\n"],
+  "mappings": ";AAAA;AAAA;AAEE,SAAA;;AAIA,MAAA,UAAA,CAAA;AACE,kBAAA;;",
+  "names": []
+}
